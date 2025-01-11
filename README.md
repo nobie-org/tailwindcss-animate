@@ -1,5 +1,7 @@
 # `tailwindcss-animate`
 
+This is a fork of the [tailwindcss-animate](https://github.com/jamie-kyle/tailwindcss-animate) package, with some outstanding changes from contributors to the original package like disambiguating the `duration` and `animation` transition utilities and making it work with tailwindcss v4.
+
 > A Tailwind CSS plugin for creating beautiful animations.
 
 ```html
