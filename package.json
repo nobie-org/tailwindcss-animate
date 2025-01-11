@@ -1,6 +1,6 @@
 {
 	"name": "@nobie-org/tailwindcss-animate",
-	"version": "1.0.8",
+	"version": "1.0.9",
 	"description": "A Tailwind CSS plugin for creating beautiful animations.",
 	"main": "index.js",
 	"files": [
