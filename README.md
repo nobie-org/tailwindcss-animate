@@ -25,7 +25,7 @@ This is a fork of the [tailwindcss-animate](https://github.com/jamie-kyle/tailwi
 Install the plugin from npm:
 
 ```sh
-npm install -D tailwindcss-animate
+npm install -D @nobie-org/tailwindcss-animate
 ```
 
 Then add the plugin to your `tailwind.config.js` file:
@@ -37,7 +37,7 @@ module.exports = {
 		// ...
 	},
 	plugins: [
-		require("tailwindcss-animate"),
+		require("@nobie-org/tailwindcss-animate"),
 		// ...
 	],
 }
